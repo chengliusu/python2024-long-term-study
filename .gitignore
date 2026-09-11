@@ -15,11 +15,13 @@ venv/
 *.ckpt
 *.safetensors
 *.csv
+
 models/
 weights/
 checkpoints/
 data/
 dataset/
+tmp/
 
 # 日志
 logs/
